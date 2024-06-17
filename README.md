@@ -1,4 +1,4 @@
-# Wordpress on Ubuntu
+# Wordpress on Docker
 
 ## _You Don't Need Any More Settings_
 
